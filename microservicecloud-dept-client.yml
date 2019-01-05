@@ -22,7 +22,6 @@ spring:
       driver-class-name: org.gjt.mm.mysql.Driver              # mysql驱动包
 ---
 server:
-server:
   port: 8002
 spring:
    profiles: test
